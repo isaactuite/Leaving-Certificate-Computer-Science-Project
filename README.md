@@ -1,4 +1,4 @@
-# Health-Monitor
+# Leaving Cert Computer Science Project (Health Monitor)
 My H1 project for Leaving Certificate Computer Science. 
 
 For this project, I was tasked to use an embedded system to improve the wellbeing of a specific demographic. I designed this project for individuals who suffer from sleep apnea to monitor their symptoms throughout the night. My device constantly monitors the user's heartrate and blood oxygen levels, and provides critical medical advice based on the readings.
