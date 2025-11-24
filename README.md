@@ -7,4 +7,4 @@ For the data analysis part of the project, (Advanced Requirements), I analysed a
 
 Overall, this project achieved a H1 mark within a very harsh Leaving Cert marking system. There is attatched a comprehensive report (titled "index"), and a video to demostrate how the end project works and how it meets the requirements set out in the brief. I used Python and C++, with libraries such as Pandas, MatPlotLib, Scikit-learn, and NumPy
 
-Link to full report: <a href='archive/index.html'>https://isaactuite.github.io./Health-Monitor/Report/index</a>
+Link to full report: <a href='archive/index.html'>https://isaactuite.github.io./Leaving-Certificate-Computer-Science-Project/Report/index</a>
